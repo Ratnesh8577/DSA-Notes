@@ -1,5 +1,5 @@
 #Write a function to segrate even odd number
-def segre(aar):
+def segre(arr):
     ans=[]
     for i in range(len(arr)):
         if arr[i]%2==0:
