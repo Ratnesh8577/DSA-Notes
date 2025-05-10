@@ -1,6 +1,6 @@
-from collection import dequeue
+from collections import deque
 
-lst = dequeue([])
+lst = deque([])
 lst.append(100)
 lst.append(12)
 lst.append(22)
