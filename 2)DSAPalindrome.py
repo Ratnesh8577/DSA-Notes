@@ -12,3 +12,4 @@ n = int(input("Enter number of elements: "))
 arr = list(map(int, input("Enter the elements: ").split()))
 result = is_palindrome(n, arr)
 print("Is palindrome:", result)
+# simple
