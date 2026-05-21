@@ -51,5 +51,5 @@ while low<high:
 print(list)
    
 
-#write a code to check wheather the num is a prime number or not?
+#write a code to check wheather the num is a prime number or not
 
