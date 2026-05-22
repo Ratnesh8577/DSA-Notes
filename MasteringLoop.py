@@ -45,7 +45,7 @@ high=len(list)-1
 while low<high:
     #swap list[low] with the list[high]
     list[low],list[high]=list[high],list[low]
-    #increment low value and drecrement the high value
+    #increment low value and drecrement the high value ?
     low+=1
     high-=1
 print(list)
