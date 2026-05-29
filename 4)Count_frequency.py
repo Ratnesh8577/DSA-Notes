@@ -9,7 +9,7 @@ def count_freq(n,arr):
     for k ,v in dict.items():
         print(k,"occured",v,"items")
 
-# Driver code
+# Driver code 
 n = int(input("Enter number of elements: "))
 arr = list(map(int, input("Enter the elements: ").split()))
 result = count_freq(n,arr)
