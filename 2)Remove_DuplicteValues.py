@@ -12,7 +12,7 @@ n = int(input("Enter number of elements: "))
 arr = list(map(int, input("Enter the elements: ").split()))
 result = remove_duplicate(n, arr)
 
-# print
+
 print("Unique elements:", result)
 
 # TC = O(N)
