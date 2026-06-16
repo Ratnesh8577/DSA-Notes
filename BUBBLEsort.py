@@ -12,7 +12,7 @@ def bubblesort(arr):
     return arr
 
 
-#Driver code
+#Driver code output
 arr=[70,20,50,30,90,5,15]
 result=bubblesort(arr)
 print("Array after applying bubble sort",result)
