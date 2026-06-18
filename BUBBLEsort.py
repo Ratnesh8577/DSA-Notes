@@ -9,7 +9,7 @@ def bubblesort(arr):
             if arr[j]>arr[j+1]:
 #swap of th elements
                 arr[j],arr[j+1]=arr[j+1],arr[j]
-                # print
+                
     return arr
 
 
