@@ -13,5 +13,5 @@ def sum_of_array(arr):
     return total
 array = [1,2,3]
 result = sum_of_array(array)
-# output
+
 print("Sum of the array:",result)
